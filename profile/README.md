@@ -27,6 +27,12 @@ tooling, and open detection content — alongside write-ups at
 - **No live malware.** Repositories ship tooling and detections, never operational samples or payloads.
 - **Open and reproducible.** Content is original, cited, and built to be run and verified.
 
+## Disclaimer
+
+These are personal, independent projects maintained in a personal capacity. They are not
+affiliated with, endorsed by, or representative of any employer. Views and content here are
+the maintainer's own.
+
 ---
 
 Read the write-ups at [meltedinhex.com](https://meltedinhex.com/).
